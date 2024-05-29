@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">A passionate full stack developer from Bangladesh<br><br>🔭 I’m currently working on KAKA<br><br>🌱 I’m currently learning Laravel<br><br>💬 Ask me about go, vue, javascript, tailwindcss</p>
+<p align="left">A passionate full stack developer from Bangladesh<br><br>🔭 I am currently working at LogicLine<br><br>🌱 I’m currently learning Laravel<br><br>💬 Ask me about go, vue, javascript, tailwindcss</p>
 
 ###
 
